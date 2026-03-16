@@ -1,0 +1,38 @@
+<!idoctype html>
+<html lang= "pt-br">
+<head>
+<meta charset= "UTF-8">
+<meta name= "viewport" content= "widht=device-with, initial scale=1.0">
+<title>Colégio Estadual Dom Carlos</title>
+<link
+
+
+
+
+
+
+
+</header>
+<nav>
+<a href="#início">inicio</a>
+<a href= "#sobre">Sobre</a>
+<a href= "#cursos">Cursos</a>
+<a href= "#agenda">agenta</a>
+<a href= "#contato">Contato</a>
+
+</nav>
+
+"section class="hero" id= "inicio">
+<h2>Bem-Vindo ao nosso portal escolar</h2>
+<p>Um site simples para apresentar informações do colégio, comunicados
+atividades e contato com a comunidade escolar
+</p>
+<a href= "#sobre" class="btn">Conhecer o colégio</a>
+:/section>
+
+:main class="info-box">
+<section id= "sobre" class="info-box">
+<h2>Sobre o colégio</h2>
+<p>
+O
+
