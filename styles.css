@@ -1,0 +1,169 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+hero. btn{
+
+
+
+
+
+}
+
+section h2: :after{
+text-align: center;
+font-size: 2rem;
+margin-bottom: 30px;
+color: + #0d471a;
+position: relative;
+}
+
+section h2: : after
+
+
+width: 90px;
+height: 4px;
+background: #42a5f5
+border-radius: 10px;
+}
+.cards{
+display:grid;
+grid-template-colums: repeat(auto-fit, minmax(260px, 1fr));
+gap: 22px
+}
+
+.card{
+background-color: white;
+padding. 28px,
+border-radius: 16px
+
+
+}
+
+.card:hover{
+transform: transla
+
+}
+
+.card h3}
+color: #1565c0;
+margin-bottom: 12px;
+font-size
+
+
+
+
+
+
+.agenda{
+background: #eaf3ff;
+border-radius: 18px;
+padding: 35px;
+box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+}
+
+agenda ul{
+list-style:none;
+}
+
+.agenda ul{
+background:  white;
+
+
+
