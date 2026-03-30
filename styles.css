@@ -1,35 +1,35 @@
+*{
+margin: 0;
+padding:0;
+box-sizing: border-box
+}
+
+html {
+ scroll-behavior: smooth ;
+}
+body
+font-family: Arial, Helvética, sans-serif;
+color: #1f22937;
+background-color: #f4f7fb;
+line-height: 1.6;
+}
+
+.container{
+widht: 90%;
+max-widht:1200px;
+padding: 30px 0;
+box-shadow: 0 auto;
+}
 
 
+header{
+background-color: linear-gradient (135deg, #30d47al, #1976d2, #42az5f5);
+color: white;
+padding: 30px 0 ;
+box-shadow: 0 4px 15px rgba (0, 0, 0, 0, 15);
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+header
 
 
 
@@ -164,6 +164,6 @@ list-style:none;
 
 .agenda ul{
 background:  white;
-
-
+margin-bottom : 14px
+;
 
