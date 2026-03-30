@@ -42,33 +42,40 @@ opacity: 0.95;
 }
 
 
+background: #08306b;
+padding: 12px 0;
+position: sticky;
+top: 0;
+z-index: 1000;
+}
 
+nav ul{
+list-style
+display-flex;
+justify-content: center;
+flex-wrap: wrap;
+gap: 18px;
+}
 
+nav ul li a{
+text-decoration
+color: white;
+font-weight: bold;
+padding: 10px 16px;
+border-radius: 8px;
+transition: 0.3s ease;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+nav ul li a: hover{
+background:  rgba(0, 0, 0, 0.15);
+transform: translateY(-2px);
+}
+ 
+hero
+.hero{
+ background: linear-gradient(to right, rgba (13, 71, 161, 0.88),rgba (25,118, 210, 0.82)),
+ ;
+}
 
 
 
