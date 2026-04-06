@@ -208,9 +208,36 @@ color: #0d47a1;
 }
 
 footer{
-backround: #0b1f3a;
+background: #0b1f3a;
 color: white;
 text-align
+padding: 22px 15px;
+margin-top: 40px;
+font-size: 0,95;
+}
 
+/*responsividade*/
+@media(max-width: 768px){
+header h1{
+font-size: 1.8rem;
+ }
+}
 
+.hero{
+padding: 70px 20px;
+}
 
+.hero h2{
+font-size 1.7rem;
+}
+nav ul{
+gap:10px;
+}
+
+nav ul li a{
+padding: 8px 12px;
+ font-size: 0.95rem;
+}
+ section{
+    padding: 45px 15px;
+ }
